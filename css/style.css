@@ -1,0 +1,77 @@
+.navigation {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 30px;
+    margin-bottom: 115px;
+    margin-left: 100px;
+}
+.navigation-li {
+    display: inline-block;
+    margin-right: 23px;
+    text-transform: uppercase;
+    font-size: 48px;
+    margin-top: 49px;
+    color: #FFFFFF;
+    margin-right: 66px;
+}
+.logo {
+	width: 201px;
+	float: right;
+	margin-right: 56px;
+	margin-top: 49px;
+	
+}
+.container {
+	margin: 0 auto;
+	background-color: #56836F;
+}
+.container p {
+	display: inline-block;
+	width: 563px;
+}
+.box1 {
+	background-color: #FCEE21;
+	display: inline-block;
+	width: 515px;
+	margin-left: 72px;
+	margin-right: 18px;
+	margin-bottom: 80px;
+	
+}
+.box2 {
+	background-color: #FCEE21;
+	display: inline-block;
+	width: 515px;
+	margin-bottom: 80px;
+
+
+}
+.box1 p {
+	float: left;
+	display: inline-block;
+	width: 300px;
+	color: #000000;
+	margin-left: 28px;
+}
+.box1 img {
+	float: right;
+	display: inline-block;
+	margin-top: 18px;
+	margin-right: 33px;
+}
+.box2 p {
+	float: right;
+	display: inline-block;
+	width: 300px;
+	color: #006837;
+	margin-right: 28px;
+}
+.box2 img {
+	float: left;
+	display: inline-block;
+	margin-top: 18px;
+	margin-left: 28px;
+}
+.clear {
+	clear: both;
+}
